@@ -1,16 +1,14 @@
-### Hi there 👋
+# mmizutani
 
-<!--
-**mmizutani/mmizutani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A backend engineer mainly focusing on web application development using Ruby and public cloud (AWS & GCP) infrastructure management using Terraform.
 
-Here are some ideas to get you started:
+### OSS Activities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Public activities on GitHub](https://github.com/pulls?q=involves%3Ammizutani+-user%3Ammizutani+is%3Apublic)
+
+
+### OpenPGP Public Keys
+
+```
+$ gpg --fetch-keys https://github.com/mmizutani.gpg
+```
